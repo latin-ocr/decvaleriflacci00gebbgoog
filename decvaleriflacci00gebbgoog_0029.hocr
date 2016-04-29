@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decvaleriflacci00gebbgoog_0029.png"; bbox 0 0 4688 5776; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 231 435 2330 676">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 231 435 2330 676">
+     <span class='ocr_line' id='line_1_1' title="bbox 231 435 2330 560; baseline 0.005 -29"><span class='ocrx_word' id='word_1_1' title='bbox 231 544 232 555; x_wconf 13' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1186 459 1235 537; x_wconf 75' lang='lat'><strong>2.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1273 435 1565 538; x_wconf 74' lang='lat' dir='ltr'><strong>i&#39;Jbersloht</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1593 457 1730 539; x_wconf 79' lang='lat' dir='ltr'>iiber</span> <span class='ocrx_word' id='word_1_5' title='bbox 1759 459 1849 538; x_wconf 73' lang='lat' dir='ltr'><strong>«lie</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1879 457 2209 560; x_wconf 74' lang='lat' dir='ltr'>Vertellung</span> <span class='ocrx_word' id='word_1_7' title='bbox 2238 461 2330 542; x_wconf 70' lang='lat' dir='ltr'><strong>det</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1758 587 2330 676; baseline 0.003 -34"><span class='ocrx_word' id='word_1_8' title='bbox 1758 587 1822 654; x_wconf 67' lang='lat' dir='ltr'><strong>(me</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1842 587 1982 676; x_wconf 59' lang='lat' dir='ltr'>Angaben</span> <span class='ocrx_word' id='word_1_10' title='bbox 2003 587 2068 674; x_wconf 73' lang='lat' dir='ltr'>⁸³¹¹d.</span> <span class='ocrx_word' id='word_1_11' title='bbox 2084 588 2156 643; x_wconf 69' lang='lat' dir='ltr'><strong>nach</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2177 588 2232 642; x_wconf 62' lang='lat' dir='ltr'><strong>ner</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2251 592 2330 670; x_wconf 58' lang='lat' dir='ltr'>zulen</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2348 5776">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2348 5776">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2348 5776; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2348 5776; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
